@@ -1,0 +1,9 @@
+{
+"terminal.integrated.profiles.windows": {
+    "MSYS2 MinGW64": {
+        "path": "D:\\mingw64\\msys2.exe",
+        "args": ["-mingw64"]
+    }
+},
+"terminal.integrated.defaultProfile.windows": "MSYS2 MinGW64"
+}
