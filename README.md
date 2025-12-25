@@ -1,6 +1,5 @@
 
 
-```markdown
 # Tower of Hanoi GUI 🏰
 
 A graphical version of the **Tower of Hanoi puzzle**, implemented in **C** with a simple GUI.
@@ -66,7 +65,7 @@ Or, on Windows, just double-click **build.bat** to compile automatically.
 
 ---
 
-```
+
 ## 📸 Screenshots
 
 ![Tower of Hanoi GUI](https://github.com/Yamuna-97/Tower_Of_Hanoi_GUI/blob/main/Screenshot%202025-09-20%20224320.png)
